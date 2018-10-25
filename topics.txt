@@ -1,0 +1,9 @@
+git github complete
+packers started
+terraform
+nagios started
+docker started
+chef
+puppet started
+ansible
+jenkins started
